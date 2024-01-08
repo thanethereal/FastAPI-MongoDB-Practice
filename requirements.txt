@@ -1,0 +1,10 @@
+pydantic==2.4.2
+annotated-types==0.6.0
+email-validator==2.1.0.post1
+fastapi==0.104.1
+typing-extensions==4.8.0
+uvicorn==0.23.2
+pymongo
+pymongo[zstd]
+pymongo[srv]
+motor==3.3.1
